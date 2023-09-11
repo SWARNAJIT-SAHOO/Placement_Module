@@ -1,3 +1,4 @@
+Placement Management System manages student information in the college with regard to placement. It improves existing system .The system contains 2 modules i;e admin & student module. TECHNOLOGY USED : Spring / React(HTML+CSS+JS)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
